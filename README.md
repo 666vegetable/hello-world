@@ -1,2 +1,3 @@
 # hello-world
-it's empty
+print("it's just a exercise")
+
